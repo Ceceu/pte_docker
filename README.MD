@@ -1,9 +1,8 @@
 #### PTE using Docker
 
 ```
-
 # clone the repo
-git clone
+git clone git@github.com:Ceceu/pte_docker.git && cd pte_docker
 
 # create a docker image
 ./create_images.sh
